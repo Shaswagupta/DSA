@@ -9,11 +9,13 @@ hello
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Shaswagupta/DSA/tree/main/0027-remove-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +45,7 @@ hello
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
