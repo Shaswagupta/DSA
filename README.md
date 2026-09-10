@@ -10,6 +10,7 @@ hello
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Shaswagupta/DSA/tree/main/0413-arithmetic-slices/) | Medium |
+| [0605-can-place-flowers](https://github.com/Shaswagupta/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Shaswagupta/DSA/tree/main/1051-height-checker/) | Easy |
@@ -82,6 +83,7 @@ hello
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/Shaswagupta/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shaswagupta/DSA/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
