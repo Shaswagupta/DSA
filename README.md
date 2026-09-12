@@ -19,6 +19,7 @@ hello
 | [1051-height-checker](https://github.com/Shaswagupta/DSA/tree/main/1051-height-checker/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shaswagupta/DSA/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [3731-find-missing-elements](https://github.com/Shaswagupta/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shaswagupta/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ hello
 | [1051-height-checker](https://github.com/Shaswagupta/DSA/tree/main/1051-height-checker/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/Shaswagupta/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@ hello
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Shaswagupta/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [3731-find-missing-elements](https://github.com/Shaswagupta/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
