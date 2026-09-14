@@ -39,6 +39,7 @@ hello
 | [0050-powx-n](https://github.com/Shaswagupta/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Shaswagupta/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shaswagupta/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
@@ -109,6 +110,7 @@ hello
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Shaswagupta/DSA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shaswagupta/DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shaswagupta/DSA/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shaswagupta/DSA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Shaswagupta/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
@@ -125,6 +127,7 @@ hello
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shaswagupta/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0389-find-the-difference](https://github.com/Shaswagupta/DSA/tree/main/0389-find-the-difference/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
