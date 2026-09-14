@@ -89,6 +89,7 @@ hello
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Shaswagupta/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Shaswagupta/DSA/tree/main/0389-find-the-difference/) | Easy |
@@ -126,6 +127,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shaswagupta/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Shaswagupta/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0389-find-the-difference](https://github.com/Shaswagupta/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
