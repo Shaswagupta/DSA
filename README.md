@@ -19,6 +19,7 @@ hello
 | [1051-height-checker](https://github.com/Shaswagupta/DSA/tree/main/1051-height-checker/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shaswagupta/DSA/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shaswagupta/DSA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shaswagupta/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Shaswagupta/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
@@ -70,6 +71,7 @@ hello
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Shaswagupta/DSA/tree/main/1051-height-checker/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shaswagupta/DSA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shaswagupta/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -96,6 +98,7 @@ hello
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Shaswagupta/DSA/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Shaswagupta/DSA/tree/main/1051-height-checker/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
