@@ -6,6 +6,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Shaswagupta/DSA/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/Shaswagupta/DSA/tree/main/0055-jump-game/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -50,6 +51,7 @@ hello
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Shaswagupta/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Newton's Method
