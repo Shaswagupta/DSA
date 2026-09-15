@@ -6,6 +6,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Shaswagupta/DSA/tree/main/0027-remove-element/) | Easy |
+| [0055-jump-game](https://github.com/Shaswagupta/DSA/tree/main/0055-jump-game/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -109,6 +110,7 @@ hello
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Shaswagupta/DSA/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/Shaswagupta/DSA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shaswagupta/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -118,6 +120,7 @@ hello
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Shaswagupta/DSA/tree/main/0055-jump-game/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Shaswagupta/DSA/tree/main/0413-arithmetic-slices/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
