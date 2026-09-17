@@ -137,6 +137,7 @@ hello
 | [0205-isomorphic-strings](https://github.com/Shaswagupta/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Shaswagupta/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Shaswagupta/DSA/tree/main/0389-find-the-difference/) | Easy |
+| [0796-rotate-string](https://github.com/Shaswagupta/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -146,4 +147,8 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/Shaswagupta/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Shaswagupta/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
