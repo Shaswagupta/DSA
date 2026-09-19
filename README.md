@@ -17,6 +17,7 @@ hello
 | [0561-array-partition](https://github.com/Shaswagupta/DSA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shaswagupta/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shaswagupta/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Shaswagupta/DSA/tree/main/1051-height-checker/) | Easy |
@@ -57,6 +58,7 @@ hello
 | [0033-search-in-rotated-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Shaswagupta/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shaswagupta/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +176,8 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shaswagupta/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
