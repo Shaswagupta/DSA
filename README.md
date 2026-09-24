@@ -54,6 +54,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Shaswagupta/DSA/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +187,8 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shaswagupta/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
