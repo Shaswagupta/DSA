@@ -15,6 +15,7 @@ hello
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Shaswagupta/DSA/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/Shaswagupta/DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0506-relative-ranks](https://github.com/Shaswagupta/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Shaswagupta/DSA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shaswagupta/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -87,6 +88,7 @@ hello
 | [0389-find-the-difference](https://github.com/Shaswagupta/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Shaswagupta/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shaswagupta/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0506-relative-ranks](https://github.com/Shaswagupta/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Shaswagupta/DSA/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shaswagupta/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -105,6 +107,7 @@ hello
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Shaswagupta/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0506-relative-ranks](https://github.com/Shaswagupta/DSA/tree/main/0506-relative-ranks/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
