@@ -9,6 +9,7 @@ hello
 | [0033-search-in-rotated-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/Shaswagupta/DSA/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Shaswagupta/DSA/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -35,6 +36,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Shaswagupta/DSA/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shaswagupta/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -77,6 +79,7 @@ hello
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Shaswagupta/DSA/tree/main/0242-valid-anagram/) | Easy |
