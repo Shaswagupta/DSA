@@ -59,6 +59,7 @@ hello
 | [0002-add-two-numbers](https://github.com/Shaswagupta/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Shaswagupta/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Shaswagupta/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/Shaswagupta/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/Shaswagupta/DSA/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Shaswagupta/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Shaswagupta/DSA/tree/main/0069-sqrtx/) | Easy |
@@ -189,6 +190,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Shaswagupta/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/Shaswagupta/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Shaswagupta/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Shaswagupta/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Shaswagupta/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -232,4 +234,8 @@ hello
 | [0002-add-two-numbers](https://github.com/Shaswagupta/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Shaswagupta/DSA/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
