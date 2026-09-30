@@ -64,6 +64,7 @@ hello
 | [0066-plus-one](https://github.com/Shaswagupta/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Shaswagupta/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0326-power-of-three](https://github.com/Shaswagupta/DSA/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Shaswagupta/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -76,6 +77,7 @@ hello
 | [0050-powx-n](https://github.com/Shaswagupta/DSA/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Shaswagupta/DSA/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Shaswagupta/DSA/tree/main/0342-power-of-four/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@ hello
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/Shaswagupta/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Shaswagupta/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/Shaswagupta/DSA/tree/main/0645-set-mismatch/) | Easy |
 ## Enumeration
