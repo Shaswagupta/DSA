@@ -63,6 +63,7 @@ hello
 | [0050-powx-n](https://github.com/Shaswagupta/DSA/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Shaswagupta/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Shaswagupta/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0258-add-digits](https://github.com/Shaswagupta/DSA/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Shaswagupta/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Shaswagupta/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -243,4 +244,9 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Shaswagupta/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0258-add-digits](https://github.com/Shaswagupta/DSA/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Shaswagupta/DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
