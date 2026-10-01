@@ -69,6 +69,7 @@ hello
 | [0326-power-of-three](https://github.com/Shaswagupta/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Shaswagupta/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shaswagupta/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Shaswagupta/DSA/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -205,6 +206,7 @@ hello
 | [0242-valid-anagram](https://github.com/Shaswagupta/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Shaswagupta/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shaswagupta/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Shaswagupta/DSA/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shaswagupta/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/Shaswagupta/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -251,6 +253,7 @@ hello
 | [0043-multiply-strings](https://github.com/Shaswagupta/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0258-add-digits](https://github.com/Shaswagupta/DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shaswagupta/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Shaswagupta/DSA/tree/main/0415-add-strings/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
