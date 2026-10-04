@@ -36,6 +36,7 @@ hello
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shaswagupta/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Shaswagupta/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Shaswagupta/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shaswagupta/DSA/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shaswagupta/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -254,6 +255,7 @@ hello
 | [0258-add-digits](https://github.com/Shaswagupta/DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shaswagupta/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Shaswagupta/DSA/tree/main/0415-add-strings/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Shaswagupta/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
