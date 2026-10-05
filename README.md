@@ -37,6 +37,7 @@ hello
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Shaswagupta/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shaswagupta/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shaswagupta/DSA/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shaswagupta/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -75,6 +76,7 @@ hello
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Shaswagupta/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shaswagupta/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shaswagupta/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -165,6 +167,7 @@ hello
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaswagupta/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shaswagupta/DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shaswagupta/DSA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shaswagupta/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
@@ -259,6 +262,7 @@ hello
 | [0415-add-strings](https://github.com/Shaswagupta/DSA/tree/main/0415-add-strings/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Shaswagupta/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shaswagupta/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
