@@ -215,6 +215,7 @@ hello
 | [0415-add-strings](https://github.com/Shaswagupta/DSA/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shaswagupta/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/Shaswagupta/DSA/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Shaswagupta/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
@@ -238,10 +239,12 @@ hello
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Shaswagupta/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Shaswagupta/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
