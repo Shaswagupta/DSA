@@ -36,6 +36,7 @@ hello
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shaswagupta/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Shaswagupta/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Shaswagupta/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shaswagupta/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -310,4 +311,8 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3024-type-of-triangle](https://github.com/Shaswagupta/DSA/tree/main/3024-type-of-triangle/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Shaswagupta/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
