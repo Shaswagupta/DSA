@@ -78,6 +78,7 @@ hello
 | [1688-count-of-matches-in-tournament](https://github.com/Shaswagupta/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2652-sum-multiples](https://github.com/Shaswagupta/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shaswagupta/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shaswagupta/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
