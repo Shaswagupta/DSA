@@ -223,6 +223,7 @@ hello
 | [0856-score-of-parentheses](https://github.com/Shaswagupta/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/Shaswagupta/DSA/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
