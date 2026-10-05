@@ -73,6 +73,7 @@ hello
 | [0412-fizz-buzz](https://github.com/Shaswagupta/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Shaswagupta/DSA/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Shaswagupta/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shaswagupta/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -256,6 +257,7 @@ hello
 | [0258-add-digits](https://github.com/Shaswagupta/DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shaswagupta/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Shaswagupta/DSA/tree/main/0415-add-strings/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Shaswagupta/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shaswagupta/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
