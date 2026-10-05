@@ -67,6 +67,7 @@ hello
 | [0069-sqrtx](https://github.com/Shaswagupta/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Shaswagupta/DSA/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Shaswagupta/DSA/tree/main/0258-add-digits/) | Easy |
+| [0292-nim-game](https://github.com/Shaswagupta/DSA/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Shaswagupta/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Shaswagupta/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shaswagupta/DSA/tree/main/0412-fizz-buzz/) | Easy |
@@ -264,4 +265,24 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Shaswagupta/DSA/tree/main/0202-happy-number/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shaswagupta/DSA/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shaswagupta/DSA/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shaswagupta/DSA/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shaswagupta/DSA/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shaswagupta/DSA/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
