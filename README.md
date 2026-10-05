@@ -40,6 +40,7 @@ hello
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shaswagupta/DSA/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [3024-type-of-triangle](https://github.com/Shaswagupta/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shaswagupta/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shaswagupta/DSA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -81,6 +82,7 @@ hello
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2652-sum-multiples](https://github.com/Shaswagupta/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shaswagupta/DSA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3024-type-of-triangle](https://github.com/Shaswagupta/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shaswagupta/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shaswagupta/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -138,6 +140,7 @@ hello
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shaswagupta/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Shaswagupta/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [3024-type-of-triangle](https://github.com/Shaswagupta/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shaswagupta/DSA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -302,4 +305,8 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Shaswagupta/DSA/tree/main/0292-nim-game/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/Shaswagupta/DSA/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
