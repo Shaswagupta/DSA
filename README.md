@@ -34,6 +34,7 @@ hello
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shaswagupta/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shaswagupta/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/Shaswagupta/DSA/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Shaswagupta/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Shaswagupta/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
