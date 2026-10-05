@@ -75,6 +75,7 @@ hello
 | [0412-fizz-buzz](https://github.com/Shaswagupta/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Shaswagupta/DSA/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaswagupta/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Shaswagupta/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -226,6 +227,7 @@ hello
 | [0342-power-of-four](https://github.com/Shaswagupta/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Shaswagupta/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/Shaswagupta/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
