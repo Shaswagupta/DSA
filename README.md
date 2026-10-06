@@ -42,6 +42,7 @@ hello
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shaswagupta/DSA/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2974-minimum-number-game](https://github.com/Shaswagupta/DSA/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Shaswagupta/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shaswagupta/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shaswagupta/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -150,6 +151,7 @@ hello
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shaswagupta/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Shaswagupta/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2974-minimum-number-game](https://github.com/Shaswagupta/DSA/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Shaswagupta/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaswagupta/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -163,6 +165,7 @@ hello
 | [0451-sort-characters-by-frequency](https://github.com/Shaswagupta/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/Shaswagupta/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/Shaswagupta/DSA/tree/main/2974-minimum-number-game/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +294,7 @@ hello
 | [1929-concatenation-of-array](https://github.com/Shaswagupta/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/Shaswagupta/DSA/tree/main/2974-minimum-number-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
