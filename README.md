@@ -11,6 +11,7 @@ hello
 | [0066-plus-one](https://github.com/Shaswagupta/DSA/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Shaswagupta/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0164-maximum-gap](https://github.com/Shaswagupta/DSA/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -126,6 +127,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/Shaswagupta/DSA/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Shaswagupta/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -263,6 +265,7 @@ hello
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Shaswagupta/DSA/tree/main/0164-maximum-gap/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Shaswagupta/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -337,4 +340,12 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shaswagupta/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Shaswagupta/DSA/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Shaswagupta/DSA/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
