@@ -10,6 +10,7 @@ hello
 | [0055-jump-game](https://github.com/Shaswagupta/DSA/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Shaswagupta/DSA/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Shaswagupta/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -218,6 +219,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Shaswagupta/DSA/tree/main/0055-jump-game/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Shaswagupta/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Shaswagupta/DSA/tree/main/0413-arithmetic-slices/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
