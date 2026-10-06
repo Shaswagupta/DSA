@@ -84,6 +84,7 @@ hello
 | [1486-xor-operation-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Shaswagupta/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shaswagupta/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2652-sum-multiples](https://github.com/Shaswagupta/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shaswagupta/DSA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
