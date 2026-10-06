@@ -208,6 +208,7 @@ hello
 | [0055-jump-game](https://github.com/Shaswagupta/DSA/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/Shaswagupta/DSA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shaswagupta/DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shaswagupta/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Shaswagupta/DSA/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shaswagupta/DSA/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -238,6 +239,7 @@ hello
 | [0709-to-lower-case](https://github.com/Shaswagupta/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Shaswagupta/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Shaswagupta/DSA/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shaswagupta/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Shaswagupta/DSA/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -264,11 +266,13 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Shaswagupta/DSA/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shaswagupta/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Shaswagupta/DSA/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shaswagupta/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
