@@ -190,6 +190,7 @@ hello
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaswagupta/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shaswagupta/DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shaswagupta/DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2325-decode-the-message](https://github.com/Shaswagupta/DSA/tree/main/2325-decode-the-message/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shaswagupta/DSA/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shaswagupta/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -246,6 +247,7 @@ hello
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shaswagupta/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shaswagupta/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2325-decode-the-message](https://github.com/Shaswagupta/DSA/tree/main/2325-decode-the-message/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Shaswagupta/DSA/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
