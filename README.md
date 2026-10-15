@@ -64,6 +64,7 @@ hello
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shaswagupta/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/Shaswagupta/DSA/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Shaswagupta/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shaswagupta/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Shaswagupta/DSA/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -188,6 +189,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Shaswagupta/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Shaswagupta/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Shaswagupta/DSA/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Shaswagupta/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -305,6 +307,7 @@ hello
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shaswagupta/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Shaswagupta/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Shaswagupta/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Shaswagupta/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -329,6 +332,7 @@ hello
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Shaswagupta/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Shaswagupta/DSA/tree/main/0202-happy-number/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
