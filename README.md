@@ -67,6 +67,7 @@ hello
 | [0905-sort-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaswagupta/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shaswagupta/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +299,7 @@ hello
 | [0206-reverse-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shaswagupta/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
