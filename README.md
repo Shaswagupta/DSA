@@ -63,6 +63,7 @@ hello
 | [0151-reverse-words-in-a-string](https://github.com/Shaswagupta/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Shaswagupta/DSA/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shaswagupta/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaswagupta/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -296,6 +297,7 @@ hello
 | [0024-swap-nodes-in-pairs](https://github.com/Shaswagupta/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
