@@ -34,6 +34,7 @@ hello
 | [0922-sort-array-by-parity-ii](https://github.com/Shaswagupta/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/Shaswagupta/DSA/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shaswagupta/DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1051-height-checker](https://github.com/Shaswagupta/DSA/tree/main/1051-height-checker/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Shaswagupta/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaswagupta/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -296,6 +297,7 @@ hello
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Shaswagupta/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shaswagupta/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shaswagupta/DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shaswagupta/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -323,6 +325,7 @@ hello
 | [0328-odd-even-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0817-linked-list-components](https://github.com/Shaswagupta/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shaswagupta/DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shaswagupta/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -391,4 +394,8 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shaswagupta/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shaswagupta/DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
