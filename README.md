@@ -334,6 +334,7 @@ hello
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shaswagupta/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shaswagupta/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shaswagupta/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Shaswagupta/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +345,7 @@ hello
 | [0657-robot-return-to-origin](https://github.com/Shaswagupta/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Shaswagupta/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shaswagupta/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Shaswagupta/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shaswagupta/DSA/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shaswagupta/DSA/tree/main/2974-minimum-number-game/) | Easy |
