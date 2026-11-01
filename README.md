@@ -69,6 +69,7 @@ hello
 | [0088-merge-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shaswagupta/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shaswagupta/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Shaswagupta/DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Shaswagupta/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Shaswagupta/DSA/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shaswagupta/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -141,11 +142,13 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shaswagupta/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Shaswagupta/DSA/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Shaswagupta/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Shaswagupta/DSA/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Shaswagupta/DSA/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaswagupta/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shaswagupta/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -324,6 +327,7 @@ hello
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shaswagupta/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shaswagupta/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shaswagupta/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Shaswagupta/DSA/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Shaswagupta/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0817-linked-list-components](https://github.com/Shaswagupta/DSA/tree/main/0817-linked-list-components/) | Medium |
@@ -399,6 +403,7 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shaswagupta/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Shaswagupta/DSA/tree/main/0148-sort-list/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
