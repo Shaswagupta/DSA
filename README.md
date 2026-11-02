@@ -301,6 +301,7 @@ hello
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shaswagupta/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Shaswagupta/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shaswagupta/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shaswagupta/DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -412,4 +413,16 @@ hello
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shaswagupta/DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shaswagupta/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shaswagupta/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shaswagupta/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
